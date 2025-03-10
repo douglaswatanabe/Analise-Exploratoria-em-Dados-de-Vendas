@@ -1,4 +1,4 @@
-# ANÁLISE EXPLORATÓRIA EM DADOS DE VENDAS
+# [PROJETO: ANÁLISE EXPLORATÓRIA EM DADOS DE VENDAS](https://github.com/douglaswatanabe/Analise-Exploratoria-em-Dados-de-Vendas/blob/main/Analise%20Exploratoria%20em%20Dados%20de%20Vendas.ipynb)
 
 ## Objetivo do Projeto
 
